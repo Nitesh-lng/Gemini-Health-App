@@ -2,7 +2,8 @@
 
 ## Overview
 
-The Gemini Health App is a [brief description of your project]. It aims to [mention the primary goal or purpose].
+Developed Gemini Health App utilizing Streamlit and Google's GenerativeAI API for nutrition analysis. Implemented features for recognizing food items in images, calculating calories, and assessing overall healthiness. The application significantly improved user decision-making on dietary choices
+
 
 ## Table of Contents
 
